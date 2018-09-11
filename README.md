@@ -1,0 +1,2 @@
+# Github_user_data
+A Django Web Application from the ground up which will allow the user to query Github data through the use of a form. To build our application, we’ll be using a wide array of technologies. We’ll use pip for Python package dependency management, bower for front-end dependency management, Twitter Bootstrap for design, Requests for making HTTP requests, the Github API as our data source, and of course, Django
